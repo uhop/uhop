@@ -6,11 +6,11 @@
   </picture>
 </a>
 
-<!--
-| Repository | Usage |
-|------------|-------|
-| [`stream-json`](https://github.com/uhop/stream-json) | ![NPM Downloads](https://img.shields.io/npm/dw/stream-json) |
--->
+The download stats of my top NPM packages:
+
+| [`stream-json`](https://github.com/uhop/stream-json) | [`stream-chain`](https://github.com/uhop/stream-chain) | [`re2`](https://github.com/uhop/node-re2) |
+|:----------:|:-------:|:-------:|
+| ![NPM Downloads](https://img.shields.io/npm/dw/stream-json) | ![NPM Downloads](https://img.shields.io/npm/dw/stream-chain) | ![NPM Downloads](https://img.shields.io/npm/dw/re2) |
 
 <!--
 **uhop/uhop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
