@@ -12,7 +12,8 @@ The download stats of my top NPM packages:
 |:----------:|:-------:|:-------:|
 | ![NPM Downloads](https://img.shields.io/npm/dw/stream-json) | ![NPM Downloads](https://img.shields.io/npm/dw/stream-chain) | ![NPM Downloads](https://img.shields.io/npm/dw/re2) |
 
-To support my open-source work you can buy me a coffee:<br><a href="https://www.buymeacoffee.com/uhop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+To support my open source work you can buy me a coffee:<br>
+<a href="https://www.buymeacoffee.com/uhop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Or sponsor me here on GitHub.
 
